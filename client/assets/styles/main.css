@@ -1,0 +1,41 @@
+body {
+    background-color: #272727;
+    color: #fff;
+}
+
+.container {
+    max-width: 1540px;
+}
+
+.custom-btn {
+    background-color: #84bc6b;
+    padding: 10px 40px;
+    border: none;
+}
+.custom-btn:hover {
+    background-color: #84bc6b;
+    opacity: 0.92;
+    transition: 0.2s;
+}
+
+#header { margin-bottom: 100px; }
+
+table tr td {
+    cursor: pointer;
+}
+
+.ninja-img {
+    width: 80%;
+    float: right;
+}
+
+/* TRANSITIONS */
+.page-enter-active,
+.page-leave-active {
+  transition: opacity .3s ease;
+}
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}
+/* END TRANSITIONS */
