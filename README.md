@@ -40,8 +40,9 @@ You should have the server running.
 
 ### Running the client
 
-1. Go to /client
-2. Type:
+1. Open another terminal window
+2. Change directory to /client
+3. Type:
 ```
 npm install
 npm run dev
