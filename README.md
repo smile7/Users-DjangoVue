@@ -54,11 +54,12 @@ You dhould have the client running too.
 http://localhost:3000/
 
 Admin crenetials:
-   user: admin@admin.com
-   pass: wewewe23
+user: admin@admin.com
+pass: wewewe23
+   
 User credentials:
-   user: rlt@rlt.rlt
-   pass: wewewe23
+user: rlt@rlt.rlt
+pass: wewewe23
 
 ### Open the backend
 
