@@ -1,5 +1,5 @@
 Django==1.11.17
 django-cors-headers==3.1.0
-djangorestframework==3.9.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 django_rest_auth==0.9.3
